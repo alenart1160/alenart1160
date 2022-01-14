@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alenart1160
-- 👀 I’m interested in esport, IT, basketball and tee ;)
+- 👀 I’m interested in esport, IT, basketball and tea ;)
 - 🌱 I’m currently learning JS and C++
 
 <!---
