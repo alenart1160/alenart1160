@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alenart1160
+- 👋 Hi, I’m Arek
 - 👀 I’m interested in esport, IT, basketball and tea ;)
 - 🌱 I’m currently learning Node.JS
 
